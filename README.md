@@ -153,6 +153,6 @@
 - A README file is included in the GitHub repo containing the following information: IP address, URL, summary of software installed, summary of configurations made, and a list of third-party resources used to complete this project.
 
 # Sources
-[sharkwhistle's README](https://raw.githubusercontent.com/sharkwhistle/Udacity-FSND-Linux-Server-Configuration-/master/README.md)
-[iliketomatoes' README](https://github.com/iliketomatoes/linux_server_configuration/blob/master/README.md)
-[mod_wsgi (Apache) in Flask documentation](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
+* [sharkwhistle's README](https://raw.githubusercontent.com/sharkwhistle/Udacity-FSND-Linux-Server-Configuration-/master/README.md)
+* [iliketomatoes' README](https://github.com/iliketomatoes/linux_server_configuration/blob/master/README.md)
+* [mod_wsgi (Apache) in Flask documentation](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
