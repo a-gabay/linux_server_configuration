@@ -146,6 +146,9 @@
     ```
     * Go to http://34.213.54.151/ (your lightsail ip address) to check that you get the hello Udacity! message
 
+# URL to hosted web application
+* [link to hosted web application](http://52.39.208.193/catalog)
+
 # Documentation
 - A README file is included in the GitHub repo containing the following information: IP address, URL, summary of software installed, summary of configurations made, and a list of third-party resources used to complete this project.
 
